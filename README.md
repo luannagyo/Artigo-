@@ -3,6 +3,7 @@
 ## Tecnologias utilizadas
 - Chatpt
 - Canva
+- -Elevenlabs
 ## 🛠️Prompts e ferramentas
 ChatGPT
 
