@@ -1,9 +1,9 @@
-# "Transformando a Saúde: Como a Tecnologia está Revolucionando o Cuidado Médico"
+ # ✍️"Transformando a Saúde: Como a Tecnologia está Revolucionando o Cuidado Médico"
  Artigo dedicado a apresentar algumas inovações tecnológicas e seus impactos positivos na saúde.
 ## Tecnologias utilizadas
 - Chatpt
 - Canva
-## Prompts e ferramentas
+## 🛠️Prompts e ferramentas
 ChatGPT
 
 | Ação     |                                              prompt |
